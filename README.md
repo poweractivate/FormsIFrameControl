@@ -11,7 +11,7 @@ This uses Power Apps Component Framework (PCF).
 This is a custom Code Component which requires enabling a specific feature in your environment and performing some steps (see discussion for moe detail) 
 before it can be added to your Canvas App.
 
-Be sure to advise all warnings about running untrusted code and use caution.
+Be sure to observe all warnings about running untrusted code and use caution.
 
 Highly recommend backing up your app a few times first before using this Componebt, and also highly recommend using a separate Power Apps environment to test your app with this Component thoroughly first before deploying it to your real production environment.
 
