@@ -8,7 +8,7 @@ https://powerusers.microsoft.com/t5/Building-Power-Apps/Using-microsoft-form-wit
 
 
 This uses Power Apps Component Framework (PCF).
-This is a custom Code Component which requires enabling a specific feature in your environment and performing some steps (see discussion for moe detail) 
+This is a custom Code Component which requires enabling a specific feature in your environment and performing some steps (see discussion for more detail) 
 before it can be added to your Canvas App.
 
 Be sure to observe all warnings about running untrusted code and use caution.
